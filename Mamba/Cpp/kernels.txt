@@ -1,0 +1,20 @@
+Available kernels:
+  python3      /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/python3
+  xcpp11       /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp11
+  xcpp14       /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp14
+  xcpp17       /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp17
+  bash         /home/rodrimfg/.local/share/jupyter/kernels/bash
+  c            /home/rodrimfg/.local/share/jupyter/kernels/c
+  jslab        /home/rodrimfg/.local/share/jupyter/kernels/jslab
+  julia-1.9    /home/rodrimfg/.local/share/jupyter/kernels/julia-1.9
+  tslab        /home/rodrimfg/.local/share/jupyter/kernels/tslab
+Available kernels:
+  python3      /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/python3
+  xcpp11       /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp11
+  xcpp14       /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp14
+  xcpp17       /home/rodrimfg/mambaforge/envs/Cpp/share/jupyter/kernels/xcpp17
+  bash         /home/rodrimfg/.local/share/jupyter/kernels/bash
+  c            /home/rodrimfg/.local/share/jupyter/kernels/c
+  jslab        /home/rodrimfg/.local/share/jupyter/kernels/jslab
+  julia-1.9    /home/rodrimfg/.local/share/jupyter/kernels/julia-1.9
+  tslab        /home/rodrimfg/.local/share/jupyter/kernels/tslab

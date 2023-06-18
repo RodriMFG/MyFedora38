@@ -1,0 +1,7 @@
+Available kernels:
+  python3      /home/rodrimfg/mambaforge/envs/Py/share/jupyter/kernels/python3
+  bash         /home/rodrimfg/.local/share/jupyter/kernels/bash
+  c            /home/rodrimfg/.local/share/jupyter/kernels/c
+  jslab        /home/rodrimfg/.local/share/jupyter/kernels/jslab
+  julia-1.9    /home/rodrimfg/.local/share/jupyter/kernels/julia-1.9
+  tslab        /home/rodrimfg/.local/share/jupyter/kernels/tslab

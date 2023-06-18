@@ -1,0 +1,16 @@
+Available kernels:
+  python3        /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/python3
+  xcpp11         /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xcpp11
+  xcpp14         /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xcpp14
+  xcpp17         /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xcpp17
+  xlua           /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xlua
+  xpython        /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xpython
+  xpython-raw    /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xpython-raw
+  xrobot         /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xrobot
+  xsql           /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xsql
+  xsqlite        /home/rodrimfg/mambaforge/envs/Xeus/share/jupyter/kernels/xsqlite
+  bash           /home/rodrimfg/.local/share/jupyter/kernels/bash
+  c              /home/rodrimfg/.local/share/jupyter/kernels/c
+  jslab          /home/rodrimfg/.local/share/jupyter/kernels/jslab
+  julia-1.9      /home/rodrimfg/.local/share/jupyter/kernels/julia-1.9
+  tslab          /home/rodrimfg/.local/share/jupyter/kernels/tslab

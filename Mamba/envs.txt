@@ -1,0 +1,11 @@
+# conda environments:
+#
+base                     /home/rodrimfg/mambaforge
+Bash                     /home/rodrimfg/mambaforge/envs/Bash
+Cpp                      /home/rodrimfg/mambaforge/envs/Cpp
+JS                       /home/rodrimfg/mambaforge/envs/JS
+Julia                    /home/rodrimfg/mambaforge/envs/Julia
+Py                       /home/rodrimfg/mambaforge/envs/Py
+ROOT                     /home/rodrimfg/mambaforge/envs/ROOT
+Xeus                     /home/rodrimfg/mambaforge/envs/Xeus
+

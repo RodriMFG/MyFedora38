@@ -1,0 +1,41 @@
+Arduino IDE v2	cc.arduino.IDE2	2.1.0	stable	flathub	system
+Discord	com.discordapp.Discord	0.0.27	stable	flathub	system
+Google Chrome	com.google.Chrome	114.0.5735.133-1	stable	flathub	system
+Extension Manager	com.mattjakeman.ExtensionManager	0.4.0	stable	flathub	system
+OBS Studio	com.obsproject.Studio	29.1.2	stable	flathub	system
+SolveSpace	com.solvespace.SolveSpace	3.1	stable	flathub	system
+Spotify	com.spotify.Client	1.2.11.916.geb595a67	stable	flathub	system
+Visual Studio Code	com.visualstudio.code	1.79.0-1686149120	stable	flathub	system
+Shortwave	de.haeckerfelix.Shortwave	3.2.0	stable	flathub	system
+Atom	io.atom.Atom	1.63.1	stable	flathub	system
+Beekeeper Studio	io.beekeeperstudio.Studio	3.9.17	stable	flathub	system
+CudaText	io.github.cudatext.CudaText-Qt5	1.195.0	stable	flathub	system
+Blender	org.blender.Blender	3.5.1	stable	flathub	system
+Codecs	org.blender.Blender.Codecs		stable	flathub	system
+Fedora Platform	org.fedoraproject.Platform	38	f38	fedora	system
+FreeCAD	org.freecadweb.FreeCAD	0.20.2.29603	stable	flathub	system
+Freedesktop Platform	org.freedesktop.Platform	21.08.18	21.08	flathub	system
+Freedesktop Platform	org.freedesktop.Platform	22.08.12.1	22.08	flathub	system
+Mesa	org.freedesktop.Platform.GL.default	21.3.9	21.08	flathub	system
+Mesa	org.freedesktop.Platform.GL.default	23.1.1	22.08	flathub	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	23.1.1	22.08-extra	flathub	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		21.08	flathub	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		22.08	flathub	system
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		22.08	flathub	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.0	flathub	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	flathub	system
+Freedesktop SDK	org.freedesktop.Sdk	22.08.12.1	22.08	flathub	system
+Geany	org.geany.Geany	1.38	stable	flathub	system
+Extensions	org.gnome.Extensions	44.0	stable	fedora	system
+GNOME Application Platform version 43	org.gnome.Platform		43	flathub	system
+GNOME Application Platform version 44	org.gnome.Platform		44	flathub	system
+Godot 3	org.godotengine.Godot3	3.5.2	stable	flathub	system
+Adwaita theme	org.kde.KStyle.Adwaita		5.15-22.08	flathub	system
+Adwaita theme	org.kde.KStyle.Adwaita		6.4	flathub	system
+KDE Application Platform	org.kde.Platform		5.15-22.08	flathub	system
+KDE Application Platform	org.kde.Platform		6.4	flathub	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-22.08	flathub	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		6.4	flathub	system
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-22.08	flathub	system
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		6.4	flathub	system
+OpenSCAD	org.openscad.OpenSCAD	2021.01	stable	flathub	system
